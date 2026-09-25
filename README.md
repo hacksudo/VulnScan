@@ -11,6 +11,8 @@ The complete application can be deployed using a **pre-built Docker image**, mak
 
 ---
 
+<img width="1594" height="1260" alt="image" src="https://github.com/user-attachments/assets/528331e0-34ae-48ec-a1a0-1cfbec3cc528" />
+
 # ✨ Features
 
 * 🐳 Fully containerized Docker deployment
@@ -38,6 +40,8 @@ The complete application can be deployed using a **pre-built Docker image**, mak
 * ⚡ Offline Docker image deployment
 
 ---
+
+![Uploading image.png…]()
 
 # 🧭 Navigation Buttons & Features
 
