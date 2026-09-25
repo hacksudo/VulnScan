@@ -771,3 +771,15 @@ https://github.com/hacksudo/VulnScan/releases
 **Hacksudo — Learn. Build. Hack. Secure.**
 
 Built for penetration testers, cybersecurity professionals, security researchers, and cybersecurity learners.
+
+# 🚀 Hacksudo VulnScan — New Release
+
+Containerized Web Vulnerability Scanner with **Nmap, Nikto, SSLScan, TestSSL.sh, Proxy, Intruder, Repeater, and built-in security analyzers**.
+
+🐳 Easy offline Docker deployment with a pre-built image and database.
+
+**Author:** Vishal Waghmare
+**Project:** Hacksudo
+**GitHub:** https://github.com/hacksudo/VulnScan
+
+⚠️ For authorized security testing and research only.
