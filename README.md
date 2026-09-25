@@ -457,8 +457,8 @@ Go to the GitHub Releases page:
 
 Download the latest:
 
-```bash
-Hacksudo-Vuln-Scan-v.1.0.2.zip```
+```text
+Hacksudo-Vuln-Scan-v.1.0.2.zip
 ```
 
 
