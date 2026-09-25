@@ -457,16 +457,16 @@ Go to the GitHub Releases page:
 
 Download the latest:
 
-```text
+```bash
 Hacksudo-Vuln-Scan-v.1.0.2.zip```
+```
 
----
 
 # 📂 Step 2 — Extract the Release
 
+```bash
 Extract the ZIP file:
 
-```bash
 unzip Hacksudo-Vuln-Scan-v.1.0.2.zip
 ```
 
