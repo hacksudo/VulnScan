@@ -156,24 +156,6 @@ Useful for authorized testing of:
 
 ---
 
-## 🔄 Repeater
-
-Manual HTTP request manipulation and replay functionality.
-
-### Highlights
-
-* Send captured requests to Repeater
-* Modify headers
-* Modify cookies
-* Modify request body
-* Modify parameters
-* Replay requests
-* Compare server responses
-
-This is useful when manually validating application behavior and vulnerability findings.
-
----
-
 ## ⚙️ Settings
 
 Provides account and application configuration functionality.
