@@ -41,7 +41,7 @@ The complete application can be deployed using a **pre-built Docker image**, mak
 
 ---
 
-![Uploading image.png…]()
+<img width="2894" height="1598" alt="image" src="https://github.com/user-attachments/assets/1ba8305c-f506-41b5-9755-8db64c298178" />
 
 # 🧭 Navigation Buttons & Features
 
