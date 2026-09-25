@@ -6,8 +6,8 @@ It combines an easy-to-use web dashboard with industry-standard security tools s
 
 The complete application can be deployed using a **pre-built Docker image**, making installation fast and eliminating the need to manually build the application or install individual security tools.
 
-🔗 **GitHub Repository:**
-https://github.com/hacksudo/VulnScan
+🔗 **GitHub Repository for Download Zip file:**
+[https://github.com/hacksudo/VulnScan](https://github.com/hacksudo/VulnScan/releases/download/vulnscan/Hacksudo-Vuln-Scan-v.1.0.2.zip)
 
 ---
 
