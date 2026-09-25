@@ -454,8 +454,7 @@ Go to the GitHub Releases page:
 Download the latest:
 
 ```text
-finalhacksudoscan.zip
-```
+Hacksudo-Vuln-Scan-v.1.0.2.zip```
 
 ---
 
@@ -464,13 +463,13 @@ finalhacksudoscan.zip
 Extract the ZIP file:
 
 ```bash
-unzip finalhacksudoscan.zip
+unzip Hacksudo-Vuln-Scan-v.1.0.2.zip
 ```
 
 Enter the extracted directory:
 
 ```bash
-cd finalhacksudoscan
+cd Hacksudo-Vuln-Scan-v.1.0.2
 ```
 
 ---
@@ -591,7 +590,7 @@ The release is designed to minimize setup requirements and provide a ready-to-ru
 A typical release package contains:
 
 ```text
-finalhacksudoscan/
+Hacksudo-Vuln-Scan-v.1.0.2/
 │
 ├── deploy_vulnscan.py
 ├── hacksudo-vulnscan.tar
